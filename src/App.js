@@ -64,7 +64,7 @@ const App = () => {
   return (
     <div className="App">
       <h1>TOKO ROTI</h1>
-      <h2>Saldo {saldo.wallet}</h2>
+      <h2>Saldo : {saldo.wallet}</h2>
       <div className="product">
         <div>Donut 0</div>
         <div>Cake 0</div>
